@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="173.03299mm"
+   height="56.556007mm"
+   viewBox="0 0 173.03299 56.556007"
+   version="1.1"
+   id="svg26750"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="serial_parallel_braking.svg"
+   inkscape:export-filename="serial_parallel_braking.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview26752"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.5393939"
+     inkscape:cx="303.04135"
+     inkscape:cy="136.09252"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid27022"
+       originx="-13.950907"
+       originy="-24.682799" />
+  </sodipodi:namedview>
+  <defs
+     id="defs26747">
+    <rect
+       x="170"
+       y="105"
+       width="110"
+       height="30"
+       id="rect27535" />
+    <rect
+       x="235"
+       y="260"
+       width="125"
+       height="35"
+       id="rect27511" />
+    <rect
+       x="370"
+       y="50"
+       width="190.00002"
+       height="50"
+       id="rect14152" />
+    <rect
+       x="370"
+       y="50"
+       width="190.00002"
+       height="50"
+       id="rect13402" />
+    <rect
+       x="370"
+       y="50"
+       width="190.00002"
+       height="50"
+       id="rect13346" />
+    <rect
+       x="340"
+       y="50"
+       width="120"
+       height="30"
+       id="rect12495" />
+    <rect
+       x="270"
+       y="260"
+       width="200"
+       height="40"
+       id="rect2289" />
+    <rect
+       x="270"
+       y="260"
+       width="200"
+       height="40"
+       id="rect2225" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <rect
+       x="270"
+       y="260"
+       width="200"
+       height="40"
+       id="rect27491" />
+    <rect
+       x="270"
+       y="260"
+       width="200"
+       height="40"
+       id="rect27493" />
+    <rect
+       x="235"
+       y="260"
+       width="125"
+       height="35"
+       id="rect27525" />
+    <rect
+       x="235"
+       y="260"
+       width="125"
+       height="35"
+       id="rect31160" />
+    <rect
+       x="170"
+       y="105"
+       width="110"
+       height="30"
+       id="rect31172" />
+    <rect
+       x="235"
+       y="260"
+       width="125"
+       height="35"
+       id="rect31184" />
+  </defs>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-13.950907,-24.682799)">
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.5;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0"
+       d="m 111.125,74.083332 63.5,-13.229166"
+       id="path31098" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:0.999998, 0.999998;stroke-dashoffset:0"
+       d="m 174.625,44.979167 -63.5,29.104165"
+       id="path31154"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.499999;stroke-linejoin:bevel;stroke-dasharray:0.999998, 0.999998;stroke-dashoffset:0"
+       d="M 84.666667,50.270833 50.270833,73.554167 h -27.78125"
+       id="path27507"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;marker-end:url(#TriangleStart)"
+       d="m 21.166665,74.083333 2e-6,-47.625"
+       id="path288"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;marker-end:url(#TriangleStart)"
+       d="M 21.166665,74.083333 H 95.25"
+       id="path1287"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-36.758115,7.0241303)"
+       id="text2223"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect2225);display:inline;fill:none;stroke:#000000;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="270"
+         y="276.81411"
+         id="tspan24125"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan24123">pedal distance</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,-55.69384,129.15307)"
+       id="text2287"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect2289);display:inline;fill:none;stroke:#000000;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="270"
+         y="276.81411"
+         id="tspan24129"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan24127">brake force</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,2.6458337,-3.7528216)"
+       id="text12493"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect12495);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel;stroke-dasharray:3.77952, 3.77952;stroke-dashoffset:0" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;marker-end:url(#TriangleStart)"
+       d="m 111.12501,74.083333 v -47.625"
+       id="path27477"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel;marker-end:url(#TriangleStart)"
+       d="m 111.12501,74.083333 h 74.08336"
+       id="path27479"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,53.200221,7.0241303)"
+       id="text27483"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect27491);display:inline;fill:none;stroke:#000000;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="270"
+         y="276.81411"
+         id="tspan24133"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan24131">pedal distance</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0,-0.26458333,0.26458333,0,34.264497,129.15307)"
+       id="text27489"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect27493);display:inline;fill:none;stroke:#000000;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="270"
+         y="276.81411"
+         id="tspan24137"><tspan
+           style="fill:#000000;stroke:none"
+           id="tspan24135">brake force</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel"
+       d="M 21.166666,74.083332 84.666666,31.75"
+       id="path27501" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linejoin:bevel"
+       d="M 111.12501,74.083332 174.62504,31.75"
+       id="path27503" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.499999;stroke-linejoin:bevel"
+       d="M 22.489583,74.083332 50.270833,55.562499 H 84.666666"
+       id="path27505" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,14.312984,-29.401829)"
+       id="text27509"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect27511);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="235"
+         y="276.81411"
+         id="tspan24139">frictional</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,10.257772,-8.1339536)"
+       id="text27523"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect27525);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="235"
+         y="276.81411"
+         id="tspan24141">regenerative</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,24.310643,0.40954636)"
+       id="text27533"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect27535);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="170"
+         y="121.81411"
+         id="tspan24143">total</tspan></text>
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.3;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 82.020832,55.562499 1.322917,5.291667"
+       id="path27545" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,94.924444,-2.8422869)"
+       id="text31158"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect31160);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="235"
+         y="276.81411"
+         id="tspan24145">regenerative</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,114.26899,0.40954636)"
+       id="text31170"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect31172);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="170"
+         y="121.81411"
+         id="tspan24147">total</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,101.45766,-17.786416)"
+       id="text31182"
+       style="font-weight:bold;font-size:18.6667px;font-family:Arial;-inkscape-font-specification:'Arial Bold';white-space:pre;shape-inside:url(#rect31184);display:inline;fill:#000000;stroke:none;stroke-width:1.88976;stroke-linejoin:bevel"><tspan
+         x="235"
+         y="276.81411"
+         id="tspan24149">frictional</tspan></text>
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.3;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 172.64062,60.854166 1.32292,5.291667"
+       id="path31192" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.3;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 171.31771,46.302083 1.32292,5.291667"
+       id="path31194" />
+    <path
+       style="fill:none;stroke:#666666;stroke-width:0.3;stroke-linejoin:bevel;stroke-dasharray:none"
+       d="m 85.409865,45.223855 -1.322917,5.291667"
+       id="path31196" />
+  </g>
+</svg>
